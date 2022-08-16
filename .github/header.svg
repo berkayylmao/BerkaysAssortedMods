@@ -1,15 +1,12 @@
 <svg
   fill="none"
-  viewBox="0 0 1006 580"
-  width="1006"
-  height="580"
+  viewBox="0 0 750 375"
+  width="750"
+  height="375"
   xmlns="http://www.w3.org/2000/svg"
 >
   <foreignObject width="100%" height="100%">
-    <div
-      xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-    >
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes scroll {
           0% {
@@ -23,11 +20,21 @@
           }
         }
         .gradient {
+          font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica,
+            Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: 400px;
+          color: white;
+          text-align: center;
+
           margin: 0;
           padding: 0;
           width: 100%;
-          height: 580px;
-          color: #2c7bc2;
+          height: 375px;
+          text-align: center;
           background: #2c7bc2;
           background: linear-gradient(90deg, #2c7bc2 0%, #ca61d5 100%);
           background-size: 600% 400%;
@@ -36,8 +43,14 @@
           animation-duration: 10s;
           animation-iteration-count: infinite;
         }
+        h1 {
+          font-size: 9em;
+          letter-spacing: 5px;
+        }
       </style>
-      <div class="gradient" />
+      <div class="gradient">
+        <h1>B.A.M.</h1>
+      </div>
     </div>
   </foreignObject>
 </svg>

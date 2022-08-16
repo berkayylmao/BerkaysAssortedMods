@@ -1,30 +1,11 @@
 <div align="center">
-  <div style="
-      z-index: 0; 
-      top: 0; 
-      left: 0;
-      width: 1006px;
-      height: 580px;
-    ">
+  <div style="width: 800; height: 400;">
     <img src=".github/header.svg?raw=true" />
   </div>
-  <div
-    style="
-      z-index: 1;
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      background-image: url(.github/UI.png?raw=true);
-      width: 1006px;
-      height: 580px;
-      background-repeat: no-repeat;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: center;
-    "></div>
+  <br/>
+  <img src=".github/UI.png?raw=true" />
+  <br/>
 </div>
-
 
 ## Quick links
 
