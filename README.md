@@ -1,8 +1,4 @@
 <div align="center">
-  <div style="width: 800; height: 400;">
-    <img src=".github/header.svg?raw=true" />
-  </div>
-  <br/>
   <img src=".github/UI.png?raw=true" />
   <br/>
 </div>
@@ -91,7 +87,7 @@ Simply delete BAM.asi from your scripts folder (`<Game Folder>/scripts/BAM.asi`)
 
 <!----><a name="help"></a>
 ## Help
-Is the game _'appearing'_ to start but then suddenly crash/free? Try **all** of these first:
+Is the game _'appearing'_ to start but then suddenly crash/freeze? Try **all** of these first:
 
 1. Make sure you meet the [requirements](#requirements). Reboot your computer after installing all of them.
 
@@ -113,6 +109,13 @@ Is the game _'appearing'_ to start but then suddenly crash/free? Try **all** of 
 6. Install a fresh copy of the game to a different folder and test it **_only_** with B.A.M.
 
 7. If the problem still persists, create an issue on GitHub with as much information as you can give.
+
+<!----><a name="acknowledgements"></a>
+## Acknowledgements
+- [@nlgxzef](https://github.com/nlgxzef)
+
+## Legal
+See `About->Legal` in the mod menu for third-party licenses.
 
 ## Incompatibilities
 None that I know of. This is a script mod so file mods (car mods, VLT scripts, Binary modules etc.) do not affect this.
