@@ -2,7 +2,7 @@
 // clang-format off
 //
 //    Berkay's Assorted Mods (Berkay's Assorted Mods)
-//    Copyright (C) 2022 Berkay Yigit <mail@berkay.link>
+//    Copyright (C) 2025 Berkay Yiğit <contact@withberkay.com>
 //
 //    This program is free software: you can redistribute it and/or modify
 //    it under the terms of the GNU Affero General Public License as published
